@@ -1,7 +1,5 @@
 # Awesome Efficient Devtools
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 An opinionated collection of developer tools that reduce compute, context, operational, or workflow overhead.
 
 Efficiency can mean reducing:
