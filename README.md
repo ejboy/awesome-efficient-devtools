@@ -34,7 +34,7 @@ Open-source, local-first, small, composable, and single-purpose tools are prefer
 
 ## Lightweight Observability
 
-- [StatLite](https://github.com/PVRLabs/statlite) - Lightweight, self-hosted monitoring for Spring Boot and other applications, providing useful visibility without a large observability stack.
+- [StatLite](https://github.com/PVRLabs/statlite) - Lightweight, self-hosted monitoring for Spring Boot and Quarkus applications, providing useful visibility without a large observability stack.
 - [Beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with a small operational footprint.
 
 ## Data & Automation
