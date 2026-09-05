@@ -23,6 +23,7 @@ Open-source, local-first, small, composable, and single-purpose tools are prefer
 - [mvn-lite](https://github.com/ejboy/agent-scripts) - Reduces noisy Maven output to compact success or failure output while preserving useful diagnostics.
 - [npm-lite](https://github.com/ejboy/agent-scripts) - A lightweight npm-output wrapper that reduces unnecessary command output for human and agent workflows.
 - [cargo-nextest](https://github.com/nextest-rs/nextest) - Runs Rust tests efficiently with fast execution and clear, useful results.
+- [Agent QA](https://github.com/vostride/agent-qa) - Reuses execution memory and cached action plans across natural-language web and mobile tests, reducing repeated planning and UI-test maintenance.
 
 ## Fast CLI Tools
 
