@@ -18,6 +18,8 @@ Open-source, local-first, small, composable, and single-purpose tools are prefer
 
 - [AI Badger](https://github.com/PVRLabs/aibadger) - A local-first tool for extracting focused repository context for ChatGPT, Claude, Gemini, Grok, and other AI assistants without requiring provider API integration.
 
+- [Orkas](https://github.com/Orkas-AI/Orkas) - Open-source, local-first desktop AI workforce whose Commander coordinates coding agents through one chat, reducing manual handoffs between agent sessions.
+
 ## Build & Test Efficiency
 
 - [mvn-lite](https://github.com/ejboy/agent-scripts) - Reduces noisy Maven output to compact success or failure output while preserving useful diagnostics.
