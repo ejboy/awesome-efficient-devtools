@@ -14,3 +14,4 @@ There are no arbitrary requirements for project age, GitHub stars, or number of 
 
 This list is editorial, and inclusion is ultimately at the maintainer's discretion. In a submission, disclose whether you are the author, maintainer, employee, sponsor, or otherwise affiliated with the project.
 
+If you find this list useful, consider starring the repository. It helps more developers discover the project, but is never required for contributing or inclusion.
