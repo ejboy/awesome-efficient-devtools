@@ -65,6 +65,10 @@ Open-source, local-first, small, composable, and single-purpose tools are prefer
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704) - A macOS utility for preventing sleep during builds, downloads, demos, and other long-running development tasks.
 - [GrandPerspective](https://grandperspectiv.sourceforge.net/) - An open-source macOS disk-usage analyzer that uses treemap visualization to make large files easy to find.
 
+## Related
+
+For an opinionated list focused on modern Spring Boot 4.x+, see [Awesome Modern Spring Boot](https://github.com/ejboy/awesome-modern-spring-boot).
+
 ## Maintainer note
 
 The maintainer builds some of the listed tools through PVR Labs. Those tools are included under the same editorial criteria as every other project here.
