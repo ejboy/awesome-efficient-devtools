@@ -22,6 +22,8 @@ Open-source, local-first, small, composable, and single-purpose tools are prefer
 
 - [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator that runs each coding-agent task in a dedicated branch/worktree with typed validation and merge boundaries, reducing context overhead and repetitive review work.
 
+- [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run below the harness — model traffic, shell exit codes, per-turn file changes and MCP calls on one timeline — then replays it offline with the network off, or forks it from a checkpoint onto a different model.
+
 ## Build & Test Efficiency
 
 - [mvn-lite](https://github.com/ejboy/agent-scripts) - Reduces noisy Maven output to compact success or failure output while preserving useful diagnostics.
