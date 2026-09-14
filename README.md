@@ -22,6 +22,8 @@ Open-source, local-first, small, composable, and single-purpose tools are prefer
 
 - [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator that runs each coding-agent task in a dedicated branch/worktree with typed validation and merge boundaries, reducing context overhead and repetitive review work.
 
+- [MulmoTerminal](https://github.com/receptron/mulmoterminal) - Browser grid of live Claude Code / Codex sessions, each cell a real PTY colour-coded working / needs-you / done from the agent CLI's own hooks, so a session blocked on a permission prompt is distinguishable from one still thinking without opening it. tmux-backed, git worktree per cell, one `npx` command.
+
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run below the harness — model traffic, shell exit codes, per-turn file changes and MCP calls on one timeline — then replays it offline with the network off, or forks it from a checkpoint onto a different model.
 
 ## Build & Test Efficiency
