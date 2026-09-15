@@ -26,4 +26,6 @@ This list is editorial, and inclusion is ultimately at the maintainer's discreti
 
 Affiliated submissions are welcome and are evaluated using the same criteria as any other submission. Disclosure neither disqualifies nor favors a project.
 
+Pull requests must be authored by the person submitting them. Do not list AI tools (such as Claude, ChatGPT, or Copilot) as co-authors or add AI `Co-Authored-By` trailers. Pull requests with AI tools credited as co-authors will be rejected; you are the author and are responsible for your submission.
+
 If you find this list useful, consider starring the repository. It helps more developers discover the project, but is never required for contributing or inclusion.
