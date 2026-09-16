@@ -41,6 +41,8 @@ Open-source, local-first, small, composable, and single-purpose tools are prefer
 - [jq](https://github.com/jqlang/jq) - Filters and transforms JSON from the command line without requiring a larger scripting workflow.
 - [hyperfine](https://github.com/sharkdp/hyperfine) - Benchmarks commands consistently so performance comparisons require little setup.
 
+- [relnote](https://github.com/loki-inu/relnote) - Offline stdlib Python CLI and GitHub Action that turns conventional commits into GitHub release notes with no API, config file, or dependency install — cutting release-workflow friction and network/setup overhead.
+
 ## Lightweight Observability
 
 - [StatLite](https://github.com/PVRLabs/statlite) - Lightweight, self-hosted monitoring for Spring Boot and Quarkus applications, providing useful visibility without a large observability stack.
