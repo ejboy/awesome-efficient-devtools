@@ -47,6 +47,7 @@ Open-source, local-first, small, composable, and single-purpose tools are prefer
 
 - [StatLite](https://github.com/PVRLabs/statlite) - Lightweight, self-hosted monitoring for Spring Boot and Quarkus applications, providing useful visibility without a large observability stack.
 - [Beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with a small operational footprint.
+- [NextReset](https://nextreset.ai/) - Free browser resource that separates public, source-linked Codex reset history from a local personal timer, reducing unnecessary account troubleshooting without reading private usage data.
 
 ## Data & Automation
 
