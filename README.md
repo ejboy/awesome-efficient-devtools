@@ -32,6 +32,7 @@ Open-source, local-first, small, composable, and single-purpose tools are prefer
 - [npm-lite](https://github.com/ejboy/agent-scripts) - A lightweight npm-output wrapper that reduces unnecessary command output for human and agent workflows.
 - [cargo-nextest](https://github.com/nextest-rs/nextest) - Runs Rust tests efficiently with fast execution and clear, useful results.
 - [Agent QA](https://github.com/vostride/agent-qa) - Reuses execution memory and cached action plans across natural-language web and mobile tests, reducing repeated planning and UI-test maintenance.
+- [Supercov](https://github.com/supercorp-ai/supercov) - Code quality and test coverage for coding agents: Jev scores each source file so the agent knows what to fix first.
 
 ## Fast CLI Tools
 
