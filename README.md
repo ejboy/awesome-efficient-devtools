@@ -26,6 +26,8 @@ Open-source, local-first, small, composable, and single-purpose tools are prefer
 
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run below the harness — model traffic, shell exit codes, per-turn file changes and MCP calls on one timeline — then replays it offline with the network off, or forks it from a checkpoint onto a different model.
 
+- [OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault) - The context floor under every agent run, measured and dated: the system prompt and tool declarations each harness sends before your first token, from 4,656 characters (dsh) to 28,839 (Crush). Claude Code sends 26,131 and 35 tools interactively, 20,806 and 29 under `claude -p`.
+
 ## Build & Test Efficiency
 
 - [mvn-lite](https://github.com/ejboy/agent-scripts) - Reduces noisy Maven output to compact success or failure output while preserving useful diagnostics.
