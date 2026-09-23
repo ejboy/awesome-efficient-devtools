@@ -26,6 +26,8 @@ Open-source, local-first, small, composable, and single-purpose tools are prefer
 
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run below the harness — model traffic, shell exit codes, per-turn file changes and MCP calls on one timeline — then replays it offline with the network off, or forks it from a checkpoint onto a different model.
 
+- [Screenpipe](https://github.com/screenpipe/screenpipe) - Local-first screen and audio history searchable through MCP and a local API, reducing repeated reconstruction of cross-app context for AI assistants. Source-available under a commercial license.
+
 ## Build & Test Efficiency
 
 - [mvn-lite](https://github.com/ejboy/agent-scripts) - Reduces noisy Maven output to compact success or failure output while preserving useful diagnostics.
