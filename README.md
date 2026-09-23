@@ -28,6 +28,8 @@ Open-source, local-first, small, composable, and single-purpose tools are prefer
 
 - [Screenpipe](https://github.com/screenpipe/screenpipe) - Local-first screen and audio history searchable through MCP and a local API, reducing repeated reconstruction of cross-app context for AI assistants. Source-available under a commercial license.
 
+- [Mnemoverse](https://github.com/mnemoverse/mcp-memory-server) - Hosted persistent memory for AI agents over MCP, with shared rooms and recall re-ranked by feedback on whether a memory helped or misled, reducing context re-explained in each new session. MIT-licensed MCP server for a proprietary hosted engine.
+
 ## Build & Test Efficiency
 
 - [mvn-lite](https://github.com/ejboy/agent-scripts) - Reduces noisy Maven output to compact success or failure output while preserving useful diagnostics.
