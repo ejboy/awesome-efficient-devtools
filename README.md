@@ -30,6 +30,8 @@ Open-source, local-first, small, composable, and single-purpose tools are prefer
 
 - [Mnemoverse](https://github.com/mnemoverse/mcp-memory-server) - Hosted persistent memory for AI agents over MCP, with shared rooms and recall re-ranked by feedback on whether a memory helped or misled, reducing context re-explained in each new session. MIT-licensed MCP server for a proprietary hosted engine.
 
+- [Jev Social](https://github.com/socai-io/jev-social) - Local Node routing and presentation layer that lets Jev choose bounded Instagram, TikTok, or LinkedIn research steps while socai reuses the user's Chrome session and streams source-linked evidence into a cited report, reducing manual search, inspection, and export handoffs without its own database or hosted control plane.
+
 ## Build & Test Efficiency
 
 - [mvn-lite](https://github.com/ejboy/agent-scripts) - Reduces noisy Maven output to compact success or failure output while preserving useful diagnostics.
