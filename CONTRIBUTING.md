@@ -18,9 +18,11 @@ Trust and safety are part of this editorial screening. Do not include software t
 
 Projects should be usable today, maintained enough to recommend, reasonably documented, and not obviously abandoned or broken. Early-stage projects may still qualify when their efficiency idea or implementation is particularly compelling.
 
+Project age alone is not a criterion. A new project can qualify when its usefulness and efficiency are already clear. However, projects built around very new, rapidly emerging, or highly speculative tool categories may need stronger evidence of durable real-world usefulness before inclusion. Early attention, launch-driven adoption, or novelty alone is not enough; the goal is to recommend tools whose value can be meaningfully evaluated rather than catalog every new trend.
+
 This list is curated, not exhaustive: meeting the basic criteria does not guarantee inclusion. When several tools solve substantially the same problem, prefer the strongest default or tools that are meaningfully differentiated rather than listing every alternative.
 
-Open-source tools are preferred. When two tools solve essentially the same problem to a similar standard, prefer the strong open-source option. Closed-source or paid software can still deserve inclusion when it is unusually good, trustworthy, lightweight, or meaningfully differentiated; it should generally provide a meaningful reason to recommend it over, or alongside, a strong open-source equivalent.
+Open-source tools are preferred. When two tools solve essentially the same problem to a similar standard, prefer the strong open-source option. Closed-source or paid software can still deserve inclusion when it is unusually good, trustworthy, lightweight, or meaningfully differentiated. The bar is higher for these tools, and there should generally be enough independent evidence of quality, adoption, or established usefulness to justify recommending them over, or alongside, strong open-source alternatives.
 
 This list is editorial, and inclusion is ultimately at the maintainer's discretion. In a submission, disclose whether you are the author, maintainer, employee, sponsor, or otherwise affiliated with the project.
 
