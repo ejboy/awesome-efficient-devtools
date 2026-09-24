@@ -30,6 +30,12 @@ Open-source, local-first, small, composable, and single-purpose tools are prefer
 
 - [Mnemoverse](https://github.com/mnemoverse/mcp-memory-server) - Hosted persistent memory for AI agents over MCP, with shared rooms and recall re-ranked by feedback on whether a memory helped or misled, reducing context re-explained in each new session. MIT-licensed MCP server for a proprietary hosted engine.
 
+- [DeployReview](https://poe.com/DeployReview) - AI code-review assistant that summarizes what a change does and flags likely issues, cutting review context-switching and repetitive re-reads of large diffs.
+
+- [DiffExplainerHQ](https://poe.com/DiffExplainerHQ) - Turns raw diffs into plain-language explanations so reviewers spend less time reconstructing what changed.
+
+- [LLMAuditor](https://poe.com/LLMAuditor) - Audits AI-generated code and text for errors and inconsistencies, catching bad model output before it costs rework.
+
 ## Build & Test Efficiency
 
 - [mvn-lite](https://github.com/ejboy/agent-scripts) - Reduces noisy Maven output to compact success or failure output while preserving useful diagnostics.
