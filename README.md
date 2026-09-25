@@ -30,6 +30,8 @@ Open-source, local-first, small, composable, and single-purpose tools are prefer
 
 - [Mnemoverse](https://github.com/mnemoverse/mcp-memory-server) - Hosted persistent memory for AI agents over MCP, with shared rooms and recall re-ranked by feedback on whether a memory helped or misled, reducing context re-explained in each new session. MIT-licensed MCP server for a proprietary hosted engine.
 
+- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Developer-alpha Rust knowledge store with grant-scoped MCP search and bounded excerpts, reducing full-history context loading without requiring a hosted memory service.
+
 ## Build & Test Efficiency
 
 - [mvn-lite](https://github.com/ejboy/agent-scripts) - Reduces noisy Maven output to compact success or failure output while preserving useful diagnostics.
