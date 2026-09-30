@@ -82,6 +82,8 @@ Open-source, local-first, small, composable, and single-purpose tools are prefer
 
 For an opinionated list focused on modern Spring Boot 4.x+, see [Awesome Modern Spring Boot](https://github.com/ejboy/awesome-modern-spring-boot).
 
+For deployment and operations guidance for self-hosted Java and JVM applications, see [Awesome Java Self-Hosting](https://github.com/ejboy/awesome-java-self-hosting).
+
 ## Maintainer note
 
 The maintainer builds some of the listed tools through PVR Labs. Those tools are included under the same editorial criteria as every other project here.
