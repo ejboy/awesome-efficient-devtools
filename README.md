@@ -26,6 +26,8 @@ Open-source, local-first, small, composable, and single-purpose tools are prefer
 
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run below the harness — model traffic, shell exit codes, per-turn file changes and MCP calls on one timeline — then replays it offline with the network off, or forks it from a checkpoint onto a different model.
 
+- [Tallyhook](https://github.com/tallyhook/tallyhook-collector) - Prices the Claude Code and Codex session logs already on disk, per repository, per model, or per client being billed, so agent spend can be checked or invoiced without adding a proxy, a wrapper, or a second running process. One dependency-free Node.js file; its only network call is a GET for a public price table.
+
 - [Screenpipe](https://github.com/screenpipe/screenpipe) - Local-first screen and audio history searchable through MCP and a local API, reducing repeated reconstruction of cross-app context for AI assistants. Source-available under a commercial license.
 
 - [Mnemoverse](https://github.com/mnemoverse/mcp-memory-server) - Hosted persistent memory for AI agents over MCP, with shared rooms and recall re-ranked by feedback on whether a memory helped or misled, reducing context re-explained in each new session. MIT-licensed MCP server for a proprietary hosted engine.
