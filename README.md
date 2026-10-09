@@ -32,6 +32,8 @@ Open-source, local-first, small, composable, and single-purpose tools are prefer
 
 - [OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault) - Versioned archive of system prompts and tool schemas captured from AI agent harnesses, making their fixed context overhead inspectable and comparable.
 
+- [drevon](https://github.com/csakash/drevon) - `npx drevon init` turns any directory into an AI workspace with one shared config, persistent cross-session memory, prompts and skills for Claude Code, Codex, Copilot, Cursor, Windsurf, Cline, Aider and Continue. MIT.
+
 ## Build & Test Efficiency
 
 - [mvn-lite](https://github.com/ejboy/agent-scripts) - Reduces noisy Maven output to compact success or failure output while preserving useful diagnostics.
