@@ -43,7 +43,7 @@ Tools that help developers direct, inspect, review, and improve AI-assisted deve
 - [cargo-nextest](https://github.com/nextest-rs/nextest) - Runs Rust tests efficiently with fast execution and clear, useful results.
 - [Agent QA](https://github.com/vostride/agent-qa) - Reuses execution memory and cached action plans across natural-language web and mobile tests, reducing repeated planning and UI-test maintenance.
 - [Supercov](https://github.com/supercorp-ai/supercov) - Code quality and test coverage for coding agents: Jev scores each source file so the agent knows what to fix first.
-- [Oh My Android](https://github.com/ateymoori/oh-my-android) - Native macOS panel that replaces repeated adb shell commands for dark mode, font scale, locale/RTL, TalkBack and network throttling with one click each while testing Android apps, plus a Layout Inspector that measures in dp.
+- [Oh My Android](https://github.com/ateymoori/oh-my-android) - Native macOS utility that simplifies Android testing with one-click ADB controls, layout inspection, and accessibility checks.
 
 ## Efficient Application Development
 
