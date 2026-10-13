@@ -63,6 +63,7 @@ Tools that help developers direct, inspect, review, and improve AI-assisted deve
 
 - [StatLite](https://github.com/PVRLabs/statlite) - Lightweight, self-hosted application monitoring with SQLite history, native Spring Boot, Quarkus, and Micronaut support, plus [easy integrations](https://github.com/PVRLabs/statlite/tree/main/docs/integrate) for Django, FastAPI, Express, Go, and other frameworks.
 - [Beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with a small operational footprint.
+- [SolidPing](https://github.com/fclairamb/solidping) - Self-hosted uptime and synthetic monitoring, status pages and on-call alerts in one Go binary with SQLite, instead of a separate prober, alert manager and status page stack.
 
 ## Data & Automation
 
