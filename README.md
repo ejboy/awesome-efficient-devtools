@@ -63,6 +63,7 @@ Tools that help developers direct, inspect, review, and improve AI-assisted deve
 
 - [StatLite](https://github.com/PVRLabs/statlite) - Lightweight, self-hosted application monitoring with SQLite history, native Spring Boot, Quarkus, and Micronaut support, plus [easy integrations](https://github.com/PVRLabs/statlite/tree/main/docs/integrate) for Django, FastAPI, Express, Go, and other frameworks.
 - [Beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with a small operational footprint.
+- [Telemetry Tracker](https://github.com/Telemetry-Tracker/telemetry-tracker) - Open-source, self-hostable error tracker for side projects and small teams, with grouped errors, source maps and alerts.
 
 ## Data & Automation
 
