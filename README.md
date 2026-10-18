@@ -100,3 +100,4 @@ For deployment and operations guidance for self-hosted Java and JVM applications
 ## Maintainer note
 
 The maintainer builds some of the listed tools through PVR Labs. Those tools are included under the same editorial criteria as every other project here.
+- [devtools.help](https://devtools.help) — Free online developer toolbox: JSON/YAML formatter & validator, regex tester, hash/HMAC & JWT tools, Base64, timestamp/UUID generator, QR code and more. Runs entirely in the browser, no signup required.
