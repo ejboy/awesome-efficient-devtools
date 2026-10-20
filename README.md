@@ -88,6 +88,7 @@ Tools that help developers direct, inspect, review, and improve AI-assisted deve
 
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704) - A macOS utility for preventing sleep during builds, downloads, demos, and other long-running development tasks.
 - [GrandPerspective](https://grandperspectiv.sourceforge.net/) - An open-source macOS disk-usage analyzer that uses treemap visualization to make large files easy to find.
+- [LeanBar](https://github.com/PVRLabs/leanbar) - Lightweight native macOS menu-bar host for local scripts, refreshing on demand by default to keep idle work and memory use low.
 
 † **Legacy inclusions:** Some AI-related projects were added before this list adopted its narrower focus on human-centered AI-assisted development. These entries are retained for historical continuity, although their primary focus does not strictly match the current category scope. New submissions follow the updated [contribution criteria](CONTRIBUTING.md).
 
