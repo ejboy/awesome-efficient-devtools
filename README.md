@@ -79,6 +79,7 @@ Tools that help developers direct, inspect, review, and improve AI-assisted deve
 - [just](https://github.com/casey/just) - Provides a small, readable command runner that turns repeated project tasks into easy-to-discover recipes.
 - [watchexec](https://github.com/watchexec/watchexec) - Runs commands in response to file changes, shortening feedback loops for development tasks.
 - [uv](https://github.com/astral-sh/uv) - Handles Python environments and packages quickly with less setup and fewer separate tools.
+- [Flisk](https://github.com/flisk-sh/flisk) - Generates and runs a complete project stack from one command, cutting the manual scaffolding and configuration work of starting a new codebase.
 
 ## Containers & Local Infrastructure
 
