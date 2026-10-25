@@ -59,6 +59,7 @@ Tools that help developers direct, inspect, review, and improve AI-assisted deve
 - [hyperfine](https://github.com/sharkdp/hyperfine) - Benchmarks commands consistently so performance comparisons require little setup.
 
 - [relnote](https://github.com/loki-inu/relnote) - Offline stdlib Python CLI and GitHub Action that turns conventional commits into GitHub release notes with no API, config file, or dependency install — cutting release-workflow friction and network/setup overhead.
+- [Mode VC LLM Inference Cost Calculator](https://modevc.com/tools/llm-inference-calculator) - Free browser-side LLM token unit economics, prompt caching, and gross margin calculator across 8 frontier and open-weights models.
 
 ## Lightweight Observability
 
