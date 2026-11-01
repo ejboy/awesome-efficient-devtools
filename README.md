@@ -86,6 +86,7 @@ Tools that help developers direct, inspect, review, and improve AI-assisted deve
 ## System & Desktop Utilities
 
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704) - A macOS utility for preventing sleep during builds, downloads, demos, and other long-running development tasks.
+- [Kilobat CLI](https://github.com/seifip/kilobat-cli) - Combines macOS network, proxy, DNS, TCP and TLS checks in one terminal report with JSON output, reducing manual troubleshooting steps.
 - [GrandPerspective](https://grandperspectiv.sourceforge.net/) - An open-source macOS disk-usage analyzer that uses treemap visualization to make large files easy to find.
 - [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - Lightweight native macOS utility that restores saved window positions after reconnecting external displays, including desktop Spaces on macOS 26+, reducing repetitive window rearrangement.
 - [LeanBar](https://github.com/PVRLabs/leanbar) - Lightweight native macOS menu-bar host for local scripts, refreshing on demand by default to keep idle work and memory use low.
