@@ -77,6 +77,8 @@ These additional criteria apply prospectively to submission PRs opened after thi
 
 ## Editorial and submission policies
 
+Entries are maintained alphabetically by display name within each category.
+
 This list is curated, not exhaustive: meeting the basic criteria does not guarantee inclusion. When several tools solve substantially the same problem, prefer the strongest default or tools that are meaningfully differentiated rather than listing every alternative.
 
 Open-source tools are preferred. When two tools solve essentially the same problem to a similar standard, prefer the strong open-source option. Closed-source or paid software can still deserve inclusion when it is unusually good, trustworthy, lightweight, or meaningfully differentiated. The bar is higher for these tools, and there should generally be enough independent evidence of quality, adoption, or established usefulness to justify recommending them over, or alongside, strong open-source alternatives.
