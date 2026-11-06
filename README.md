@@ -67,6 +67,7 @@ Tools that help developers direct, inspect, review, and improve AI-assisted deve
 
 ## Data & Automation
 
+- [BestJSON](https://bestjson.com/) - Formats and compares JSON locally in the browser without installation or an account, preserving numeric tokens when formatting.
 - [H2 Database](https://www.h2database.com/html/main.html) - An embeddable Java SQL database for development, testing, and lightweight applications without requiring a separate database server.
 - [Scriptella ETL](https://github.com/scriptella/scriptella-etl) - A lightweight Java-based ETL and script execution tool for moving and transforming data without requiring a full integration platform.
 
