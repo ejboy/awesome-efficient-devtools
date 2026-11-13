@@ -20,65 +20,64 @@ Tools that help developers direct, inspect, review, and improve AI-assisted deve
 
 - [AI Badger](https://github.com/PVRLabs/aibadger) - A local-first tool for extracting focused repository context for ChatGPT, Claude, Gemini, Grok, and other AI assistants without requiring provider API integration.
 
-- [Orkas](https://github.com/Orkas-AI/Orkas)† - Open-source, local-first desktop AI workforce whose Commander coordinates coding agents through one chat, reducing manual handoffs between agent sessions.
-
-- [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator that runs each coding-agent task in a dedicated branch/worktree with typed validation and merge boundaries, reducing context overhead and repetitive review work.
+- [Mnemoverse](https://github.com/mnemoverse/mcp-memory-server)† - Hosted persistent memory for AI agents over MCP, with shared rooms and recall re-ranked by feedback on whether a memory helped or misled, reducing context re-explained in each new session. MIT-licensed MCP server for a proprietary hosted engine.
 
 - [MulmoTerminal](https://github.com/receptron/mulmoterminal) - Browser grid for parallel coding-agent sessions with real PTYs, status indicators, tmux persistence, and git-worktree isolation, reducing attention switching and missed agent prompts.
 
+- [OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault) - Versioned archive of system prompts and tool schemas captured from AI agent harnesses, making their fixed context overhead inspectable and comparable.
+
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run below the harness — model traffic, shell exit codes, per-turn file changes and MCP calls on one timeline — then replays it offline with the network off, or forks it from a checkpoint onto a different model.
 
-- [Tallyhook](https://github.com/tallyhook/tallyhook-collector) - Prices the Claude Code and Codex session logs already on disk, per repository, per model, or per client being billed, so agent spend can be checked or invoiced without adding a proxy, a wrapper, or a second running process. One dependency-free Node.js file; its only network call is a GET for a public price table.
+- [Orkas](https://github.com/Orkas-AI/Orkas)† - Open-source, local-first desktop AI workforce whose Commander coordinates coding agents through one chat, reducing manual handoffs between agent sessions.
 
 - [Screenpipe](https://github.com/screenpipe/screenpipe) - Local-first screen and audio history searchable through MCP and a local API, reducing repeated reconstruction of cross-app context for AI assistants. Source-available under a commercial license.
 
-- [Mnemoverse](https://github.com/mnemoverse/mcp-memory-server)† - Hosted persistent memory for AI agents over MCP, with shared rooms and recall re-ranked by feedback on whether a memory helped or misled, reducing context re-explained in each new session. MIT-licensed MCP server for a proprietary hosted engine.
+- [Tallyhook](https://github.com/tallyhook/tallyhook-collector) - Prices the Claude Code and Codex session logs already on disk, per repository, per model, or per client being billed, so agent spend can be checked or invoiced without adding a proxy, a wrapper, or a second running process. One dependency-free Node.js file; its only network call is a GET for a public price table.
 
-- [OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault) - Versioned archive of system prompts and tool schemas captured from AI agent harnesses, making their fixed context overhead inspectable and comparable.
+- [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator that runs each coding-agent task in a dedicated branch/worktree with typed validation and merge boundaries, reducing context overhead and repetitive review work.
 
 ## Build & Test Efficiency
 
+- [Agent QA](https://github.com/vostride/agent-qa) - Reuses execution memory and cached action plans across natural-language web and mobile tests, reducing repeated planning and UI-test maintenance.
+- [cargo-nextest](https://github.com/nextest-rs/nextest) - Runs Rust tests efficiently with fast execution and clear, useful results.
 - [mvn-lite](https://github.com/ejboy/agent-scripts) - Reduces noisy Maven output to compact success or failure output while preserving useful diagnostics.
 - [npm-lite](https://github.com/ejboy/agent-scripts) - A lightweight npm-output wrapper that reduces unnecessary command output for human and agent workflows.
-- [cargo-nextest](https://github.com/nextest-rs/nextest) - Runs Rust tests efficiently with fast execution and clear, useful results.
-- [Agent QA](https://github.com/vostride/agent-qa) - Reuses execution memory and cached action plans across natural-language web and mobile tests, reducing repeated planning and UI-test maintenance.
-- [Supercov](https://github.com/supercorp-ai/supercov) - Code quality and test coverage for coding agents: Jev scores each source file so the agent knows what to fix first.
 - [Oh My Android](https://github.com/ateymoori/oh-my-android) - Native macOS utility that simplifies Android testing with one-click ADB controls, layout inspection, and accessibility checks.
+- [Supercov](https://github.com/supercorp-ai/supercov) - Code quality and test coverage for coding agents: Jev scores each source file so the agent knows what to fix first.
 
 ## Efficient Application Development
 
-- [Micronaut](https://micronaut.io/) - JVM application framework using compile-time dependency injection to reduce runtime reflection, startup overhead, and memory usage.
 - [Jdbi 3](https://jdbi.org/) - Lightweight Java SQL access library that reduces JDBC boilerplate while keeping SQL explicit, without requiring a full ORM.
+- [Micronaut](https://micronaut.io/) - JVM application framework using compile-time dependency injection to reduce runtime reflection, startup overhead, and memory usage.
 
 ## Fast CLI Tools
 
-- [ripgrep](https://github.com/BurntSushi/ripgrep) - Searches files quickly while respecting common ignore rules, making repository navigation less wasteful.
 - [fd](https://github.com/sharkdp/fd) - Finds files with a fast, simple interface and sensible defaults that reduce command-line friction.
 - [fzf](https://github.com/junegunn/fzf) - Adds fast fuzzy selection to shell workflows, reducing repetitive typing and lookup work.
-- [jq](https://github.com/jqlang/jq) - Filters and transforms JSON from the command line without requiring a larger scripting workflow.
 - [hyperfine](https://github.com/sharkdp/hyperfine) - Benchmarks commands consistently so performance comparisons require little setup.
-
+- [jq](https://github.com/jqlang/jq) - Filters and transforms JSON from the command line without requiring a larger scripting workflow.
 - [relnote](https://github.com/loki-inu/relnote) - Offline stdlib Python CLI and GitHub Action that turns conventional commits into GitHub release notes with no API, config file, or dependency install — cutting release-workflow friction and network/setup overhead.
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - Searches files quickly while respecting common ignore rules, making repository navigation less wasteful.
 
 ## Lightweight Observability
 
-- [StatLite](https://github.com/PVRLabs/statlite) - Lightweight, self-hosted application monitoring with SQLite history, native Spring Boot, Quarkus, and Micronaut support, plus [easy integrations](https://github.com/PVRLabs/statlite/tree/main/docs/integrate) for Django, FastAPI, Express, Go, and other frameworks.
 - [Beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with a small operational footprint.
 - [SolidPing](https://github.com/fclairamb/solidping) - Self-hosted uptime and synthetic monitoring, status pages and on-call alerts in one Go binary with SQLite, instead of a separate prober, alert manager and status page stack.
+- [StatLite](https://github.com/PVRLabs/statlite) - Lightweight, self-hosted application monitoring with SQLite history, native Spring Boot, Quarkus, and Micronaut support, plus [easy integrations](https://github.com/PVRLabs/statlite/tree/main/docs/integrate) for Django, FastAPI, Express, Go, and other frameworks.
 
 ## Data & Automation
 
-- [Scriptella ETL](https://github.com/scriptella/scriptella-etl) - A lightweight Java-based ETL and script execution tool for moving and transforming data without requiring a full integration platform.
 - [H2 Database](https://www.h2database.com/html/main.html) - An embeddable Java SQL database for development, testing, and lightweight applications without requiring a separate database server.
+- [Scriptella ETL](https://github.com/scriptella/scriptella-etl) - A lightweight Java-based ETL and script execution tool for moving and transforming data without requiring a full integration platform.
 
 ## Developer Environment
 
-- [jenv](https://github.com/jenv/jenv) - Switches between Java versions per project, reducing manual environment setup and configuration drift.
-- [mise](https://github.com/jdx/mise) - Manages development tools and environment variables in one place, reducing setup work across projects.
 - [direnv](https://github.com/direnv/direnv) - Loads project-specific environment variables automatically, reducing repeated shell configuration.
+- [jenv](https://github.com/jenv/jenv) - Switches between Java versions per project, reducing manual environment setup and configuration drift.
 - [just](https://github.com/casey/just) - Provides a small, readable command runner that turns repeated project tasks into easy-to-discover recipes.
-- [watchexec](https://github.com/watchexec/watchexec) - Runs commands in response to file changes, shortening feedback loops for development tasks.
+- [mise](https://github.com/jdx/mise) - Manages development tools and environment variables in one place, reducing setup work across projects.
 - [uv](https://github.com/astral-sh/uv) - Handles Python environments and packages quickly with less setup and fewer separate tools.
+- [watchexec](https://github.com/watchexec/watchexec) - Runs commands in response to file changes, shortening feedback loops for development tasks.
 
 ## Containers & Local Infrastructure
 
@@ -89,6 +88,9 @@ Tools that help developers direct, inspect, review, and improve AI-assisted deve
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704) - A macOS utility for preventing sleep during builds, downloads, demos, and other long-running development tasks.
 - [Glim](https://github.com/NeoPanic/Glim) - A macOS file viewer that keeps Markdown, JSON, CSV, PDFs, images and source code in one workspace, reducing app switching during local file inspection.
 - [GrandPerspective](https://grandperspectiv.sourceforge.net/) - An open-source macOS disk-usage analyzer that uses treemap visualization to make large files easy to find.
+- [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - Lightweight native macOS utility that restores saved window positions after reconnecting external displays, including desktop Spaces on macOS 26+, reducing repetitive window rearrangement.
+- [LeanBar](https://github.com/PVRLabs/leanbar) - Lightweight native macOS menu-bar host for local scripts, refreshing on demand by default to keep idle work and memory use low.
+- [Scroll Reverser](https://github.com/pilotmoon/Scroll-Reverser) - Open-source macOS utility that lets users configure mouse and trackpad scrolling directions independently, eliminating repeated system-setting changes.
 
 † **Legacy inclusions:** Some AI-related projects were added before this list adopted its narrower focus on human-centered AI-assisted development. These entries are retained for historical continuity, although their primary focus does not strictly match the current category scope. New submissions follow the updated [contribution criteria](CONTRIBUTING.md).
 
