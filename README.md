@@ -20,6 +20,8 @@ Tools that help developers direct, inspect, review, and improve AI-assisted deve
 
 - [AI Badger](https://github.com/PVRLabs/aibadger) - A local-first tool for extracting focused repository context for ChatGPT, Claude, Gemini, Grok, and other AI assistants without requiring provider API integration.
 
+- [DESIGN:OS Code2Flow](https://github.com/jangtrinh/design-os-code2flow) - Statically maps the routes of a Next.js, React Router, TanStack Router, Expo Router, SwiftUI, Flutter or Jetpack Compose app into a Mermaid user-flow graph and flags dead-end screens, missing loading or error states and unguarded auth routes, so AI-generated screens can be reviewed without clicking through every page. Runs locally with zero network calls; free, source-available under PolyForm Shield.
+
 - [Mnemoverse](https://github.com/mnemoverse/mcp-memory-server)† - Hosted persistent memory for AI agents over MCP, with shared rooms and recall re-ranked by feedback on whether a memory helped or misled, reducing context re-explained in each new session. MIT-licensed MCP server for a proprietary hosted engine.
 
 - [MulmoTerminal](https://github.com/receptron/mulmoterminal) - Browser grid for parallel coding-agent sessions with real PTYs, status indicators, tmux persistence, and git-worktree isolation, reducing attention switching and missed agent prompts.
