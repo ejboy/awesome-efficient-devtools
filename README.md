@@ -77,6 +77,7 @@ Tools that help developers direct, inspect, review, and improve AI-assisted deve
 - [just](https://github.com/casey/just) - Provides a small, readable command runner that turns repeated project tasks into easy-to-discover recipes.
 - [mise](https://github.com/jdx/mise) - Manages development tools and environment variables in one place, reducing setup work across projects.
 - [uv](https://github.com/astral-sh/uv) - Handles Python environments and packages quickly with less setup and fewer separate tools.
+- [vsux](https://github.com/shadowDragons/vsux) - Native macOS editor and terminal workspace that groups split terminals, files, Git tools, saved commands, and background services by project, reducing repeated window switching and command setup. Free and MIT-licensed; macOS 14+ on Apple Silicon.
 - [watchexec](https://github.com/watchexec/watchexec) - Runs commands in response to file changes, shortening feedback loops for development tasks.
 
 ## Containers & Local Infrastructure
