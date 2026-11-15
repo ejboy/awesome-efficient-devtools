@@ -68,6 +68,7 @@ Tools that help developers direct, inspect, review, and improve AI-assisted deve
 ## Data & Automation
 
 - [H2 Database](https://www.h2database.com/html/main.html) - An embeddable Java SQL database for development, testing, and lightweight applications without requiring a separate database server.
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Hosted Streamable HTTP MCP server exposing a curated US live-music venue database across all 50 states with zero local setup, no API key, and structured venue/booking queries.
 - [Scriptella ETL](https://github.com/scriptella/scriptella-etl) - A lightweight Java-based ETL and script execution tool for moving and transforming data without requiring a full integration platform.
 
 ## Developer Environment
