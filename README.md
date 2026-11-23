@@ -34,6 +34,8 @@ Tools that help developers direct, inspect, review, and improve AI-assisted deve
 
 - [Tallyhook](https://github.com/tallyhook/tallyhook-collector) - Prices the Claude Code and Codex session logs already on disk, per repository, per model, or per client being billed, so agent spend can be checked or invoiced without adding a proxy, a wrapper, or a second running process. One dependency-free Node.js file; its only network call is a GET for a public price table.
 
+- [vibeshield-mod](https://github.com/zColdWater/vibeshield-claude-mod) - Zero-dependency, zero-network Claude Code function-hooks guardrail mod (`register.ts`) that inspects `Write`, `Edit`, and `Bash` payloads in-memory to block `NEXT_PUBLIC_*`/`VITE_*` secret exposure, hardcoded live keys in frontend bundles, and `git add .env` without spawning subprocesses or spending prompt context tokens.
+
 - [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator that runs each coding-agent task in a dedicated branch/worktree with typed validation and merge boundaries, reducing context overhead and repetitive review work.
 
 ## Build & Test Efficiency
