@@ -68,6 +68,7 @@ Tools that help developers direct, inspect, review, and improve AI-assisted deve
 ## Data & Automation
 
 - [H2 Database](https://www.h2database.com/html/main.html) - An embeddable Java SQL database for development, testing, and lightweight applications without requiring a separate database server.
+- [LS Exit Audit](https://twappleon.github.io/ls-exit-audit/?utm_source=awesome_efficient_devtools&utm_medium=github_pr&utm_campaign=ls_exit_audit_v030) - Dependency-free local CLI that scans code, configuration, inventories, and URL lists for Lemon Squeezy references and produces CSV/JSON migration inventories, replacing repeated manual searches and spreadsheet reconciliation. Paid tool by this submitter.
 - [Scriptella ETL](https://github.com/scriptella/scriptella-etl) - A lightweight Java-based ETL and script execution tool for moving and transforming data without requiring a full integration platform.
 
 ## Developer Environment
